@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijatheeg.greenonblack.com/sitemap.xml
